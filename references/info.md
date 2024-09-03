@@ -7,7 +7,7 @@ https://github.com/Rajchowdhury420/CTF-CheatSheet
 https://github.com/Adamkadaban/CTFs  
 https://github.com/Adamkadaban/LearnPwn  
 https://github.com/uppusaikiran/awesome-ctf-cheatsheet  
-https://github.com/JohnHammond/ctf-katana?tab=readme-ov-file  
+https://github.com/JohnHammond/ctf-katana  
 
 Links to blogs and webpages  
 https://zweilosec.gitbook.io/hackers-rest/tools-cheatsheets  
